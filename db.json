@@ -1,14 +1,38 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "locationID": 1,
+    "longitude": "14.200",
+    "latitude": "13.500",
+    "branchname": "Autohaus 1",
+    "street": "Sechsschimmelgasse",
+    "streetNO": "22",
+    "country": "Österreich",
+    "city": "Wien",
+    "zipCode": "1090",
+    "success": true
+  },
+  {
+    "locationID": 2,
+    "longitude": "15.300",
+    "latitude": "17.900",
+    "branchname": "Autohaus 2",
+    "street": "Aichhorngasse",
+    "streetNO": "8",
+    "country": "Österreich",
+    "city": "Wien",
+    "zipCode": "1120",
+    "success": true
+  },
+  {
+    "locationID": 3,
+    "longitude": "12.500",
+    "latitude": "16.700",
+    "branchname": "Autohaus 3",
+    "street": "Teststraße",
+    "streetNO": "11",
+    "country": "Österreich",
+    "city": "Wien",
+    "zipCode": "1010",
+    "success": true
   }
-}
+]
