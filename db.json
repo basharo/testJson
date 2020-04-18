@@ -1,5 +1,6 @@
-[
-  {
+ {
+  "locations": [   
+ {
     "locationID": 1,
     "longitude": "14.200",
     "latitude": "13.500",
@@ -35,4 +36,4 @@
     "zipCode": "1010",
     "success": true
   }
-]
+]}
